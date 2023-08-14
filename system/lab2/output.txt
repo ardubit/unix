@@ -1,0 +1,28 @@
+Program started
+Child process created with PID 15740
+Child process set sid
+Child process change directory to '/'
+Child process close all open file descriptors inherited from parent
+Child process open /dev/null as stdin, stdout, and stderr
+Daemon process parameters: PID=15740, PPID=1, SID=15740
+Program started
+Child process created with PID 16216
+Child process set sid
+Child process change directory to '/'
+Child process close all open file descriptors inherited from parent
+Child process open /dev/null as stdin, stdout, and stderr
+Daemon process parameters: PID=16216, PPID=1, SID=16216
+Program started
+Child process created with PID 16219
+Child process set sid
+Child process change directory to '/'
+Child process close all open file descriptors inherited from parent
+Child process open /dev/null as stdin, stdout, and stderr
+Daemon process parameters: PID=16219, PPID=1, SID=16219
+Program started
+Child process created with PID 16223
+Child process set sid
+Child process change directory to '/'
+Child process close all open file descriptors inherited from parent
+Child process open /dev/null as stdin, stdout, and stderr
+Daemon process parameters: PID=16223, PPID=1, SID=16223

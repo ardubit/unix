@@ -1,0 +1,2777 @@
+Started program. PID: 18553
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Started program. PID: 18635
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Received signal: 1
+Signal info:
+si_signo: 1
+si_code: 0
+si_pid: 18644
+
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+Loop iteration
+*** Старт програми. PID: 20336
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+Отриманий сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+Отриманий сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+Отриманий сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+*** Старт програми. PID: 20487
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+*** Старт програми. PID: 20514
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+Отриманий сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+*** Старт програми. PID: 20594
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+*** Старт програми. PID: 20615
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+ -> Нескінченний цикл
+*** Старт програми. PID: 20654
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Отримано сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+*** Старт програми ***
+ PID: 20703
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Отримано сигнал: 1
+Сигнал: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+*** Старт програми ***
+-> PID: 21232
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Отримано сигнал: 1
+Відправник: 
+ -> si_signo: 1
+ -> si_code:  0
+ -> si_pid:   20343
+
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
+Нескінченний цикл
